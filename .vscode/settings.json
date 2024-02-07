@@ -1,0 +1,5 @@
+{
+  "file.exclude": {
+    "**/__pycache__": true
+  }
+}
