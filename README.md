@@ -1,9 +1,5 @@
 # Code Beam
 
-![GitHub repo size](https://img.shields.io/github/repo-size/itscaiocunha/CodeBeam?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/itscaiocunha/CodeBeam?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/itscaiocunha/CodeBeam?style=for-the-badge)
-
 <img src="assets/Logo_CodeBeam.png" alt="Logo Code Beam">
 
 > Develop barcodes in a hassle-free way with this Python project. "Code Beam" is the key to transforming data into impactful visuals without the hassle of complex code.
