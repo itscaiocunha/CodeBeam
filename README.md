@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/itscaiocunha/CodeBeam?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/itscaiocunha/CodeBeam?style=for-the-badge)
 
-<img src="assets/logo_CodeBeam.png" alt="Logo">
+<img src="assets/Logo_CodeBeam.png" alt="Logo Code Beam">
 
 > Develop barcodes in a hassle-free way with this Python project. "Code Beam" is the key to transforming data into impactful visuals without the hassle of complex code.
 
@@ -53,7 +53,7 @@ python run.py
   <tr>
     <td align="center">
       <a href="#" title="Caio">
-        <img src="assets/Caio.png" width="100px;" alt="Foto do Caio"/><br>
+        <img src="assets/perfil.png" width="100px;" alt="Foto do Caio"/><br>
         <sub>
           <b>Caio Cunha</b>
         </sub>
